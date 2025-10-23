@@ -1,0 +1,9 @@
+/backend/target
+/frontend/node_modules
+.DS_Store
+.application-dev.yml
+backend/.idea
+.idea
+
+config.bat
+node_modules
