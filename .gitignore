@@ -1,0 +1,11 @@
+/backend/target
+/frontend/node_modules
+.DS_Store
+.application-dev.yml
+backend/.idea
+.idea
+
+config.bat
+node_modules
+temp_auto_push.bat
+temp_interactive_push.bat
